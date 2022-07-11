@@ -28,7 +28,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/yakuthun/yakuthun/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
  <img alt="snake eating my contribution" src="https://github.com/yakuthun/yakuthun/blob/output/github-contribution-grid-snake.svg">
 
