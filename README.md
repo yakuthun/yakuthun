@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Languages and Tools</h2>
+<h3 align="center">Languages and Tools</h3>
 
 ###
 
